@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/FractalCreator.dir/src/bitmap.cpp.o CMakeFiles/FractalCreator.dir/src/fractalcreator.cpp.o CMakeFiles/FractalCreator.dir/src/main.cpp.o CMakeFiles/FractalCreator.dir/src/mandelbrot.cpp.o CMakeFiles/FractalCreator.dir/src/rgb.cpp.o CMakeFiles/FractalCreator.dir/src/zoomlist.cpp.o  -o FractalCreator 
